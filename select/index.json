@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Love-Evidence",
+  "base_artist": "Sora Amamiya",
+  "createdAt": "2025-12-24T01:36:14.756277Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love-Evidence",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/01_Love-Evidence_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love-Evidence",
+      "artist": "Amamiya Sora",
+      "has_synced": true,
+      "path": "select/02_Love-Evidence_Amamiya_Sora.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love-Evidence",
+      "artist": "Sora Amamiya",
+      "has_synced": true,
+      "path": "select/03_Love-Evidence_Sora_Amamiya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love-Evidence",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/04_Love-Evidence_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love-Evidence",
+      "artist": "Amamiya Sora",
+      "has_synced": true,
+      "path": "select/05_Love-Evidence_Amamiya_Sora.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love-Evidence",
+      "artist": "Sora Amamiya",
+      "has_synced": true,
+      "path": "select/06_Love-Evidence_Sora_Amamiya.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love-Evidence",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/07_Love-Evidence_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love-Evidence",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/08_Love-Evidence_雨宮天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love-Evidence",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/pl_01_Love-Evidence_雨宮天.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Love-Evidence",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/pl_02_Love-Evidence_雨宮天.txt"
+    }
+  ]
+}
